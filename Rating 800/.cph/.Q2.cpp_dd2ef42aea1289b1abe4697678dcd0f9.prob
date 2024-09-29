@@ -1,0 +1,1 @@
+{"name":"Local: Q2","url":"f:\\CPP Program\\CP\\TLE ELeminators CP30\\Rating 800\\Q2.cpp","tests":[{"id":1726853285964,"input":"3\n3 7\n1 2 5\n3 6\n1 2 5\n1 10\n7\n","output":"4\n3\n7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CPP Program\\CP\\TLE ELeminators CP30\\Rating 800\\Q2.cpp","group":"local","local":true}
